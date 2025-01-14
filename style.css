@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  background-color: #f2eae2;
+  display: flex;
+}
+
+.container-main {
+  margin: auto;
+  width: 600px;
+  height: 450px;
+  background-color: #ffffff;
+}
+
+.card-box-container {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.image-left img {
+  width: 50%;
+  float: left;
+}
+.article-right {
+  width: 50%;
+  float: right;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.name-parfume {
+  margin-top: 32px;
+  margin-left: 20px;
+}
+.title-parfume {
+  width: 50%;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.article-right p {
+  margin-top: 24px;
+  margin-left: 20px;
+}
+.price {
+  display: flex;
+  justify-content: flex-start;
+}
+.price .price-parfum {
+  margin-left: 20px;
+  margin-top: 29px;
+  font-size: 40px;
+}
+
+.addtocart {
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+.strike-price {
+  text-decoration: line-through;
+}
