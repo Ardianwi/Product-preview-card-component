@@ -37,7 +37,8 @@ body {
   margin-left: 20px;
 }
 .title-parfume {
-  width: 50%;
+  width: 80%;
+  font-size: 30px;
   margin-top: 20px;
   margin-left: 20px;
 }
@@ -45,6 +46,7 @@ body {
 .article-right p {
   margin-top: 24px;
   margin-left: 20px;
+  font-size: 15px;
 }
 .price {
   display: flex;
