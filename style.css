@@ -47,6 +47,7 @@ body {
   margin-top: 24px;
   margin-left: 20px;
   font-size: 15px;
+  text-align: justify;
 }
 .price {
   display: flex;
